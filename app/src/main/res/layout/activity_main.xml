@@ -32,7 +32,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="add"
-        android:text="歸零"
+        android:text="加2"
         android:textSize="30sp" />
 
 </LinearLayout>

@@ -1,4 +1,6 @@
-package Counter.s1071467
+@file:Suppress("PackageName")
+
+package counter.s1071467
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
