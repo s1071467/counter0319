@@ -14,10 +14,10 @@ class MainActivity : AppCompatActivity(){
     }
 
         fun add(v:View) {
-         if(v.id == R.id.btn){
+         if(v==btn){
              counter++
-         }else{
-             counter=0
+         }else if(v==btn2){
+             counter+=2
          }
          txv.text=counter.toString()
 
